@@ -361,6 +361,7 @@ tool_tags:
   - "Interactive tools"
   interactive_tool_jupyter_notebook:
   - "Interactive tools"
+  - Humanities
   interactive_tool_jupytergis_notebook:
   - "Interactive tools"
   interactive_tool_libertem:
@@ -381,6 +382,7 @@ tool_tags:
   - "Interactive tools"
   interactive_tool_openrefine:
   - "Interactive tools"
+  - Humanities
   interactive_tool_pampa:
   - "Interactive tools"
   interactive_tool_pangeo_ml_notebook:
@@ -413,6 +415,7 @@ tool_tags:
   - "Interactive tools"
   interactive_tool_rstudio:
   - "Interactive tools"
+  - Humanities
   interactive_tool_rstudio_askor:
   - "Interactive tools"
   interactive_tool_scoop3_argo:
@@ -873,6 +876,7 @@ tool_tags:
   - "NCBI Blast"
   "toolshed.g2.bx.psu.edu/repos/bgruening/diff/diff":
   - "Text Manipulation"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/bgruening/diffbind/diffbind":
   - "Peak Calling"
   "toolshed.g2.bx.psu.edu/repos/bgruening/doclayoutyolo/doclayoutyolo":
@@ -2658,6 +2662,7 @@ tool_tags:
   - "Get Data"
   "toolshed.g2.bx.psu.edu/repos/ecology/sam3_semantic_segmentation/sam3_semantic_segmentation":
   - "Computer vision"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/ecology/sanntis_marine/sanntis_marine":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/ecology/sdmpredictors_list_layers/sdmpredictors_list_layers":
@@ -4515,6 +4520,7 @@ tool_tags:
   - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/iuc/dos2unix/dos2unix":
   - "Text Manipulation"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/iuc/dram_annotate/dram_annotate":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/dram_distill/dram_distill":
@@ -4667,6 +4673,7 @@ tool_tags:
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/fileidentification/fileidentification":
   - "Quality Control"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/iuc/filter_tabular/filter_tabular":
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/filtlong/filtlong":
@@ -5859,6 +5866,7 @@ tool_tags:
   - "SAM/BAM"
   "toolshed.g2.bx.psu.edu/repos/iuc/nlp_cooccurrence_analysis/nlp_cooccurrence_analysis":
   - "Text Manipulation"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/iuc/nonpareil/nonpareil":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/novoplasty/novoplasty":
@@ -7090,6 +7098,7 @@ tool_tags:
   - Phylogenetics
   "toolshed.g2.bx.psu.edu/repos/iuc/vader_sentiment/vader_sentiment":
   - "Text Manipulation"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/iuc/valet/valet":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/vapor/vapor":
