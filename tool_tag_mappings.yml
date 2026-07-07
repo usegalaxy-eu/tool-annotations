@@ -7269,9 +7269,9 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/kpbioteam/ewastools/minfi_rset":
   - Epigenetics
   "toolshed.g2.bx.psu.edu/repos/ksuderman/spacy_nlp/spacy_nlp":
-  - "Digital Humanities"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/ksuderman/stanford_corenlp/stanford_corenlp":
-  - "Digital Humanities"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/lecorguille/anova/abims_anova":
   - Metabolomics
   "toolshed.g2.bx.psu.edu/repos/lecorguille/camera_annotate/abims_CAMERA_annotateDiffreport":
