@@ -7232,6 +7232,16 @@ tool_tags:
   - "Operate on Genomic Intervals"
   "toolshed.g2.bx.psu.edu/repos/kellrott/regex_replace/regex_replace":
   - "Text Manipulation"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_binarize/kraken_binarize/7.1.1+galaxy0"
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_ocr/kraken_ocr/7.1.1+galaxy0"
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_segment/kraken_segment/7.1.1+galaxy0"
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/ketos_compile/ketos_compile/7.1.1+galaxy0"
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/ketos_train/ketos_train/7.1.1+galaxy0"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/kpbioteam/chipeakanno_annopeaks/chipeakanno_annopeaks":
   - "Test Tools"
   "toolshed.g2.bx.psu.edu/repos/kpbioteam/clusterprofiler_bitr/clusterprofiler_bitr":
