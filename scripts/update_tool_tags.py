@@ -16,7 +16,7 @@ from pathlib import Path
 
 import yaml
 
-SERVERS = ["https://usegalaxy.eu", "https://usegalaxy.org", "https://usegalaxy.org.au"]
+SERVERS = ["https://usegalaxy.eu", "https://usegalaxy.org"] ##, "https://usegalaxy.org.au"]
 MAPPING_FILE = Path(__file__).resolve().parent.parent / "tool_tag_mappings.yml"
 SAFE_UNQUOTED_RE = re.compile(r"[A-Za-z0-9_.-]+")
 # shortcut: only catches versions starting with a digit, extend if a ToolShed tool uses another scheme
