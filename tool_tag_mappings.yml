@@ -364,6 +364,8 @@ tool_tags:
   - "Interactive tools"
   interactive_tool_isee:
   - "Interactive tools"
+  interactive_tool_jupyter_mpe:
+  - "Interactive tools"
   interactive_tool_jupyter_notebook:
   - "Interactive tools"
   - Humanities
@@ -411,6 +413,8 @@ tool_tags:
   interactive_tool_phinch:
   - "Interactive tools"
   interactive_tool_phyloseq:
+  - "Interactive tools"
+  interactive_tool_praat:
   - "Interactive tools"
   interactive_tool_pretextview:
   - "Interactive tools"
@@ -696,6 +700,8 @@ tool_tags:
   - "GIS Data Handling"
   "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_py3dtiles/3dtrees_py3dtiles":
   - "GIS Data Handling"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_raster/3dtrees_raster":
+  - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_raycloudtools/3dtrees_raycloudtools":
   - "GIS Data Handling"
   "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_segmentanytree/3dtrees_segmentanytree":
@@ -1231,6 +1237,34 @@ tool_tags:
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/bgruening/mavedb_importer/mavedb_importer":
   - "Get Data"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_adapt/mfa_adapt":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_align/mfa_align":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_find_oovs/mfa_find_oovs":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_g2p/mfa_g2p":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_merge/mfa_merge":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_remap_alignments/mfa_remap_alignments":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_tokenize/mfa_tokenize":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_train/mfa_train":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_train_dictionary/mfa_train_dictionary":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_train_g2p/mfa_train_g2p":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_train_lm/mfa_train_lm":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_train_tokenizer/mfa_train_tokenizer":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_validate/mfa_validate":
+  - Humanities
+  "toolshed.g2.bx.psu.edu/repos/bgruening/mfa_validate_dictionary/mfa_validate_dictionary":
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/bgruening/mgnify_seqprep/mgnify_seqprep":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/bgruening/minced/minced":
@@ -4954,10 +4988,14 @@ tool_tags:
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/column_remove_by_header/column_remove_by_header":
   - "Text Manipulation"
+  "toolshed.g2.bx.psu.edu/repos/iuc/combine_boolean_params/combine_boolean_params":
+  - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/comebin/comebin":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/comebin_bam/comebin_bam":
   - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/compare_param_value/compare_param_value":
+  - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/compleasm/compleasm":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/compose_text_param/compose_text_param":
@@ -5880,6 +5918,8 @@ tool_tags:
   - "Graph/Display Data"
   "toolshed.g2.bx.psu.edu/repos/iuc/intervene/intervene_upset":
   - "Graph/Display Data"
+  "toolshed.g2.bx.psu.edu/repos/iuc/invert_boolean_param/invert_boolean_param":
+  - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/ipfp_normalisation/ipfp_norm":
   - Statistics
   "toolshed.g2.bx.psu.edu/repos/iuc/iqtree/iqtree":
@@ -7325,6 +7365,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/rgrnastar/rna_star":
   - Mapping
   - RNA-Seq
+  "toolshed.g2.bx.psu.edu/repos/iuc/rhizaeon/rhizaeon":
+  - Phylogenetics
   "toolshed.g2.bx.psu.edu/repos/iuc/ribowaltz_plot/ribowaltz_plot":
   - "RNA Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/ribowaltz_process/ribowaltz_process":
@@ -7433,6 +7475,12 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/scater_plot_pca/scater_plot_pca":
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/scater_plot_tsne/scater_plot_tsne":
+  - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/sccellfie_analysis/sccellfie_analysis":
+  - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/sccellfie_pipeline/sccellfie_pipeline":
+  - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/sccellfie_plotting/sccellfie_plotting":
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/sceasy_convert/sceasy_convert":
   - Single-cell
@@ -7968,6 +8016,8 @@ tool_tags:
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/topanat/topanat":
   - "RNA Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/trace50/trace50":
+  - Phylogenetics
   "toolshed.g2.bx.psu.edu/repos/iuc/tracegroomer/tracegroomer":
   - Metabolomics
   "toolshed.g2.bx.psu.edu/repos/iuc/tracy_align/tracy_align":
