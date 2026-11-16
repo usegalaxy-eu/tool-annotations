@@ -4381,6 +4381,8 @@ tool_tags:
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/bam_to_scidx/bam_to_scidx":
   - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/iuc/bambu/bambu":
+  - "RNA Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/bamtools_split_mapped/bamtools_split_mapped":
   - "SAM/BAM"
   "toolshed.g2.bx.psu.edu/repos/iuc/bamtools_split_paired/bamtools_split_paired":
@@ -4721,6 +4723,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/biom_summarize_table/biom_summarize_table":
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/bionym/bionym":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/bionym/bionym_ask":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/biotradis/bacteria_tradis":
   - Annotation
@@ -5236,6 +5240,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/duplex_family_size_distribution/td":
   - "Other Tools"
   - "Du Novo"
+  "toolshed.g2.bx.psu.edu/repos/iuc/dupradar/dupradar":
+  - "RNA Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/eastr/eastr":
   - "RNA Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/ebi_metagenomics_run_downloader/ebi_metagenomics_run_downloader":
@@ -6661,6 +6667,8 @@ tool_tags:
   - "FASTQ Quality Control"
   "toolshed.g2.bx.psu.edu/repos/iuc/mudata_import_export/mudata_import_export":
   - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/multi_omics_classification/multi-omics-classification":
+  - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/multigps/multigps":
   - Epigenetics
   "toolshed.g2.bx.psu.edu/repos/iuc/multigsea/multigsea":
@@ -7482,6 +7490,8 @@ tool_tags:
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/sccellfie_plotting/sccellfie_plotting":
   - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/scdblfinder/scdblfinder":
+  - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/sceasy_convert/sceasy_convert":
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/schicexplorer_schicadjustmatrix/schicexplorer_schicadjustmatrix":
@@ -7662,6 +7672,30 @@ tool_tags:
   - "Graph/Display Data"
   "toolshed.g2.bx.psu.edu/repos/iuc/sina/sina":
   - "Multiple Alignments"
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scbulkcoverage/sincei_scbulkcoverage":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_sccombinecounts/sincei_sccombinecounts":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_sccountqc/sincei_sccountqc":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_sccountreads_bins/sincei_sccountreads_bins":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_sccountreads_features/sincei_sccountreads_features":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scexportsignal/sincei_scexportsignal":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scfilterbarcodes/sincei_scfilterbarcodes":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scfilterstats/sincei_scfilterstats":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scfindvcrs/sincei_scfindvcrs":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scjsd/sincei_scjsd":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scplotregion/sincei_scplotregion":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/sincei_scscorefeatures/sincei_scscorefeatures":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/sinto_barcode/sinto_barcode":
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/sinto_fragments/sinto_fragments":
@@ -7929,6 +7963,8 @@ tool_tags:
   - Evolution
   "toolshed.g2.bx.psu.edu/repos/iuc/structureharvester/structureharvester":
   - "Variant Calling"
+  "toolshed.g2.bx.psu.edu/repos/iuc/survivor/survivor_merge":
+  - "Variant Calling"
   "toolshed.g2.bx.psu.edu/repos/iuc/swiftlink/swiftlink":
   - "Variant Calling"
   "toolshed.g2.bx.psu.edu/repos/iuc/swissmodel_modelling_api/swissmodel_modelling_api":
@@ -7998,6 +8034,10 @@ tool_tags:
   - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/iuc/tiberius/tiberius":
   - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/tiddit_cov/tiddit_cov":
+  - "Variant Calling"
+  "toolshed.g2.bx.psu.edu/repos/iuc/tiddit_sv/tiddit_sv":
+  - "Variant Calling"
   "toolshed.g2.bx.psu.edu/repos/iuc/tissue/tissue":
   - "Spatial Omics"
   "toolshed.g2.bx.psu.edu/repos/iuc/tissue/tissue_downstream":
@@ -8111,6 +8151,8 @@ tool_tags:
   - Mapping
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_axttomaf/ucsc_axtomaf":
   - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_bedtobigbed/ucsc_bedtobigbed":
+  - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_bigwigaverageoverbed/ucsc_bigwigaverageoverbed":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainantirepeat/ucsc_chainantirepeat":
@@ -8130,9 +8172,17 @@ tool_tags:
   - Mapping
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_fasplit/fasplit":
   - "FASTA/FASTQ"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_fatotwobit/ucsc_fatotwobit":
+  - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_fatovcf/fatovcf":
   - "Variant Calling"
   - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_genepredtobed/ucsc_genepredtobed":
+  - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_gff3togenepred/ucsc_gff3togenepred":
+  - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_hubcheck/ucsc_hubcheck":
+  - "Graph/Display Data"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_mafaddirows/ucsc_mafaddirows":
   - "Multiple Alignments"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_mafcoverage/ucsc_mafcoverage":
