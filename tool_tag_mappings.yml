@@ -487,37 +487,46 @@ tool_tags:
   metabolicmine:
   - "Get Data"
   mfa_adapt:
-  - "Test Tools"
   - Humanities
+  - "Montreal Forced Aligner"
   mfa_align:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
   - Humanities
   mfa_find_oovs:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
   - Humanities
   mfa_g2p:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
   - Humanities
   mfa_merge:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_remap_alignments:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_tokenize:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_train:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_train_dictionary:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_train_g2p:
   - "Test Tools"
   mfa_train_lm:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_train_tokenizer:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_validate:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   mfa_validate_dictionary:
-  - "Test Tools"
+  - "Montreal Forced Aligner"
+  - Humanities
   microbial_import1:
   - "Get Data"
   modENCODEfly:
@@ -535,7 +544,7 @@ tool_tags:
   netcdf2zarr:
   - "Test Tools"
   new_fave_extract:
-  - "Test Tools"
+  - Humanities
   omicsdi:
   - "Get Data"
   param_value_from_file:
@@ -7905,6 +7914,7 @@ tool_tags:
   - RAD-seq
   "toolshed.g2.bx.psu.edu/repos/iuc/stanza_nlp/stanza_nlp":
   - "Text Manipulation"
+  - Humanities
   "toolshed.g2.bx.psu.edu/repos/iuc/star_fusion/star_fusion":
   - Mapping
   "toolshed.g2.bx.psu.edu/repos/iuc/staramr/staramr_search":
