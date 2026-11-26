@@ -8344,14 +8344,19 @@ tool_tags:
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_binarize/kraken_binarize":
   - Humanities
+  - Kraken
   "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_ocr/kraken_ocr":
   - Humanities
+  - Kraken
   "toolshed.g2.bx.psu.edu/repos/bgruening/kraken_segment/kraken_segment":
   - Humanities
+  - Kraken
   "toolshed.g2.bx.psu.edu/repos/bgruening/ketos_compile/ketos_compile":
   - Humanities
+  - Kraken
   "toolshed.g2.bx.psu.edu/repos/bgruening/ketos_train/ketos_train":
   - Humanities
+  - Kraken
   "toolshed.g2.bx.psu.edu/repos/kpbioteam/chipeakanno_annopeaks/chipeakanno_annopeaks":
   - "Test Tools"
   "toolshed.g2.bx.psu.edu/repos/kpbioteam/clusterprofiler_bitr/clusterprofiler_bitr":
