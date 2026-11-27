@@ -3411,355 +3411,530 @@ tool_tags:
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_accuratemasssearch/AccurateMassSearch":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_additiveseries/AdditiveSeries":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_assaygeneratormetabo/AssayGeneratorMetabo":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_baselinefilter/BaselineFilter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_clustermasstraces/ClusterMassTraces":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_clustermasstracesbyprecursor/ClusterMassTracesByPrecursor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_cometadapter/CometAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_compnovo/CompNovo":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_compnovocid/CompNovoCID":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_consensusid/ConsensusID":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_consensusmapnormalizer/ConsensusMapNormalizer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_cruxadapter/CruxAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_cvinspector/CVInspector":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_databasefilter/DatabaseFilter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_decharger/Decharger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_decoydatabase/DecoyDatabase":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_demeanderize/DeMeanderize":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_digestor/Digestor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_digestormotif/DigestorMotif":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_dtaextractor/DTAExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_eicextractor/EICExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_epifany/Epifany":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_erpairfinder/ERPairFinder":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_externalcalibration/ExternalCalibration":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_falsediscoveryrate/FalseDiscoveryRate":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindercentroided/FeatureFinderCentroided":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefinderidentification/FeatureFinderIdentification":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefinderisotopewavelet/FeatureFinderIsotopeWavelet":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindermetabo/FeatureFinderMetabo":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindermetaboident/FeatureFinderMetaboIdent":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindermrm/FeatureFinderMRM":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindermultiplex/FeatureFinderMultiplex":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurefindersuperhirn/FeatureFinderSuperHirn":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurelinkerlabeled/FeatureLinkerLabeled":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurelinkerunlabeled/FeatureLinkerUnlabeled":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurelinkerunlabeledkd/FeatureLinkerUnlabeledKD":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_featurelinkerunlabeledqt/FeatureLinkerUnlabeledQT":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_ffeval/FFEval":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_fidoadapter/FidoAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_fileconverter/FileConverter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_filefilter/FileFilter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_fileinfo/FileInfo":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_filemerger/FileMerger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_fuzzydiff/FuzzyDiff":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_gnpsexport/GNPSExport":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_highresprecursormasscorrector/HighResPrecursorMassCorrector":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idconflictresolver/IDConflictResolver":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_iddecoyprobability/IDDecoyProbability":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idextractor/IDExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idfileconverter/IDFileConverter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idfilter/IDFilter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idmapper/IDMapper":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idmassaccuracy/IDMassAccuracy":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idmerger/IDMerger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idposteriorerrorprobability/IDPosteriorErrorProbability":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idripper/IDRipper":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idrtcalibration/IDRTCalibration":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idscoreswitcher/IDScoreSwitcher":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_idsplitter/IDSplitter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_inclusionexclusionlistcreator/InclusionExclusionListCreator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_inspectadapter/InspectAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_internalcalibration/InternalCalibration":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_isobaricanalyzer/IsobaricAnalyzer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_jsonexporter/JSONExporter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_labeledeval/LabeledEval":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_lowmempeakpickerhires/LowMemPeakPickerHiRes":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_lowmempeakpickerhires_randomaccess/LowMemPeakPickerHiRes_RandomAccess":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_lowmempeakpickerhiresrandomaccess/LowMemPeakPickerHiResRandomAccess":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_luciphoradapter/LuciphorAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapaligneridentification/MapAlignerIdentification":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapalignerposeclustering/MapAlignerPoseClustering":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapalignerspectrum/MapAlignerSpectrum":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapalignertreeguided/MapAlignerTreeGuided":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapnormalizer/MapNormalizer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_maprttransformer/MapRTTransformer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mapstatistics/MapStatistics":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_maraclusteradapter/MaRaClusterAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mascotadapter/MascotAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mascotadapteronline/MascotAdapterOnline":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_masscalculator/MassCalculator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_masstraceextractor/MassTraceExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_metaboliteadductdecharger/MetaboliteAdductDecharger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_metabolitespectralmatcher/MetaboliteSpectralMatcher":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_metaprosip/MetaProSIP":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mrmmapper/MRMMapper":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mrmpairfinder/MRMPairFinder":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mrmtransitiongrouppicker/MRMTransitionGroupPicker":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_msfraggeradapter/MSFraggerAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_msgfplusadapter/MSGFPlusAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mssimulator/MSSimulator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_msstatsconverter/MSstatsConverter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_multiplexresolver/MultiplexResolver":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_myrimatchadapter/MyriMatchAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mzmlsplitter/MzMLSplitter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_mztabexporter/MzTabExporter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_noisefiltergaussian/NoiseFilterGaussian":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_noisefiltersgolay/NoiseFilterSGolay":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_novoradapter/NovorAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_nucleicacidsearchengine/NucleicAcidSearchEngine":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_omssaadapter/OMSSAAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openmsinfo/OpenMSInfo":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openpepxl/OpenPepXL":
   - ChemicalToolBox
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openpepxllf/OpenPepXLLF":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathanalyzer/OpenSwathAnalyzer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathassaygenerator/OpenSwathAssayGenerator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathchromatogramextractor/OpenSwathChromatogramExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathconfidencescoring/OpenSwathConfidenceScoring":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathdecoygenerator/OpenSwathDecoyGenerator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathdiaprescoring/OpenSwathDIAPreScoring":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathfeaturexmltotsv/OpenSwathFeatureXMLToTSV":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathfilesplitter/OpenSwathFileSplitter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathmzmlfilecacher/OpenSwathMzMLFileCacher":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathrewritetofeaturexml/OpenSwathRewriteToFeatureXML":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathrtnormalizer/OpenSwathRTNormalizer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_openswathworkflow/OpenSwathWorkflow":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_peakpickerhires/PeakPickerHiRes":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_peakpickeriterative/PeakPickerIterative":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_peakpickerwavelet/PeakPickerWavelet":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_pepnovoadapter/PepNovoAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_peptideindexer/PeptideIndexer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_percolatoradapter/PercolatorAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_phosphoscoring/PhosphoScoring":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_precursorionselector/PrecursorIonSelector":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_precursormasscorrector/PrecursorMassCorrector":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_proteininference/ProteinInference":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_proteinquantifier/ProteinQuantifier":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_proteinresolver/ProteinResolver":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_psmfeatureextractor/PSMFeatureExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_ptmodel/PTModel":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_ptpredict/PTPredict":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qccalculator/QCCalculator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcembedder/QCEmbedder":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcexporter/QCExporter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcextractor/QCExtractor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcimporter/QCImporter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcmerger/QCMerger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qcshrinker/QCShrinker":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_qualitycontrol/QualityControl":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnadigestor/RNADigestor":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnamasscalculator/RNAMassCalculator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnpxl/RNPxl":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnpxlsearch/RNPxlSearch":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnpxlxicfilter/RNPxlXICFilter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rtevaluation/RTEvaluation":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rtmodel/RTModel":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rtpredict/RTPredict":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_sageadapter/SageAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_seedlistgenerator/SeedListGenerator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_semanticvalidator/SemanticValidator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_sequencecoveragecalculator/SequenceCoverageCalculator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_simplesearchengine/SimpleSearchEngine":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_siriusadapter/SiriusAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_speclibcreator/SpecLibCreator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_speclibsearcher/SpecLibSearcher":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilterbernnorm/SpectraFilterBernNorm":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafiltermarkermower/SpectraFilterMarkerMower":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilternlargest/SpectraFilterNLargest":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilternormalizer/SpectraFilterNormalizer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilterparentpeakmower/SpectraFilterParentPeakMower":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilterscaler/SpectraFilterScaler":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafiltersqrtmower/SpectraFilterSqrtMower":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilterthresholdmower/SpectraFilterThresholdMower":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrafilterwindowmower/SpectraFilterWindowMower":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectramerger/SpectraMerger":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_spectrastsearchadapter/SpectraSTSearchAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_svmtheoreticalspectrumgeneratortrainer/SvmTheoreticalSpectrumGeneratorTrainer":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_targetedfileconverter/TargetedFileConverter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_textexporter/TextExporter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_ticcalculator/TICCalculator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_tofcalibration/TOFCalibration":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_topperc/TopPerc":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_transformationevaluation/TransformationEvaluation":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_xfdr/XFDR":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_xmlvalidator/XMLValidator":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/openms_xtandemadapter/XTandemAdapter":
   - Proteomics
+  - openms
   "toolshed.g2.bx.psu.edu/repos/galaxyp/pep_pointer/pep_pointer":
   - Proteomics
   "toolshed.g2.bx.psu.edu/repos/galaxyp/pepquery/pepquery":
