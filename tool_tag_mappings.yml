@@ -725,6 +725,8 @@ tool_tags:
   - "GIS Data Handling"
   "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_tile_merge/3dtrees_tile_merge":
   - "GIS Data Handling"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_trajectory/3dtrees_trajectory":
+  - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/bgruening/add_line_to_file/add_line_to_file":
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/bgruening/agat/agat":
@@ -813,6 +815,12 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/bgruening/chemical_data_sources/jmoleditor":
   - ChemicalToolBox
   "toolshed.g2.bx.psu.edu/repos/bgruening/circexplorer/circexplorer":
+  - "RNA Analysis"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/ciriquant_ciri_de/ciriquant_ciri_de":
+  - "RNA Analysis"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/ciriquant_ciriquant/ciriquant_ciriquant":
+  - "RNA Analysis"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/ciriquant_prep_ciriquant/ciriquant_prep_ciriquant":
   - "RNA Analysis"
   "toolshed.g2.bx.psu.edu/repos/bgruening/cleanlab/cleanlab_issue_handler":
   - "Machine Learning"
@@ -1333,6 +1341,14 @@ tool_tags:
   - Humanities
   "toolshed.g2.bx.psu.edu/repos/bgruening/nextdenovo/nextdenovo":
   - Assembly
+  "toolshed.g2.bx.psu.edu/repos/bgruening/nexus_eln_builder/nexus_eln_builder":
+  - "Other Tools"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/nexus_eln_llm_merge/nexus_eln_llm_merge":
+  - "Other Tools"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/nexus_llm_input/nexus_llm_input":
+  - "Other Tools"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/nexus_report_builder/nexus_report_builder":
+  - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/bgruening/nn_classifier/nn_classifier":
   - Statistics
   "toolshed.g2.bx.psu.edu/repos/bgruening/nucleosome_prediction/Nucleosome":
@@ -1434,10 +1450,16 @@ tool_tags:
   - Proteomics
   "toolshed.g2.bx.psu.edu/repos/bgruening/protein_properties/bg_protein_properties":
   - Proteomics
+  "toolshed.g2.bx.psu.edu/repos/bgruening/proteinortho/proteinortho":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/bgruening/psortb/psortb":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/bgruening/pynxtools_peak_finding/pynxtools_peak_finding":
   - ChemicalToolBox
+  "toolshed.g2.bx.psu.edu/repos/bgruening/pynxtools_spm_converter/pynxtools_spm_converter":
+  - "Convert Formats"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/pynxtools_spm_eln_files/pynxtools_spm_eln_files":
+  - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/bgruening/qed/ctb_silicos_qed":
   - ChemicalToolBox
   "toolshed.g2.bx.psu.edu/repos/bgruening/qiime2_dbotu_q2/qiime2_dbotu_q2":
@@ -1564,6 +1586,8 @@ tool_tags:
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/bgruening/split_file_to_collection/split_file_to_collection":
   - "Collection Operations"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/spm_raw_header/spm_raw_header":
+  - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/bgruening/sucos_clustering/sucos_clustering":
   - ChemicalToolBox
   "toolshed.g2.bx.psu.edu/repos/bgruening/sucos_docking_scoring/sucos_docking_scoring":
@@ -1679,6 +1703,8 @@ tool_tags:
   - Imaging
   "toolshed.g2.bx.psu.edu/repos/bgruening/yq/yq":
   - "Text Manipulation"
+  "toolshed.g2.bx.psu.edu/repos/bgruening/zenodo_nomad_download/zenodo_nomad_download":
+  - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/blankenberg/naive_variant_caller/naive_variant_caller":
   - "Variant Calling"
   "toolshed.g2.bx.psu.edu/repos/boris/filter_on_md/MDtag_filter":
@@ -4972,6 +4998,8 @@ tool_tags:
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/cawlign/cawlign":
   - "Multiple Alignments"
+  "toolshed.g2.bx.psu.edu/repos/iuc/cctyper/cctyper":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/cd_hit/cd_hit":
   - "Multiple Alignments"
   "toolshed.g2.bx.psu.edu/repos/iuc/celltypist/celltypist":
@@ -5564,6 +5592,8 @@ tool_tags:
   - "FASTA/FASTQ"
   "toolshed.g2.bx.psu.edu/repos/iuc/fasta_to_contig2bin/Fasta_to_Contig2Bin":
   - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/fastan/fastan":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/fastani/fastani":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/fastga/alnchain":
@@ -5642,6 +5672,10 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/flash/flash":
   - "FASTA/FASTQ"
   "toolshed.g2.bx.psu.edu/repos/iuc/flavotyper/flavotyper":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/foldmason_easy_msa/foldmason_easy_msa":
+  - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/foldmason_msa2lddt/foldmason_msa2lddt":
   - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/foldtree/foldtree":
   - Phylogenetics
@@ -6537,6 +6571,12 @@ tool_tags:
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/mgnify_pipelines_toolkit_rev_comp_se_primers/mgnify_pipelines_toolkit_rev_comp_se_primers":
   - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/mic_50_90_distribution/mic_50_90_distribution":
+  - Statistics
+  "toolshed.g2.bx.psu.edu/repos/iuc/mic_50_90_reporting/mic_50_90_reporting":
+  - Statistics
+  "toolshed.g2.bx.psu.edu/repos/iuc/mic_50_90_verify_report/mic_50_90_verify_report":
+  - Statistics
   "toolshed.g2.bx.psu.edu/repos/iuc/micro_decon/micro_decon":
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/microsatbed/microsatbed":
@@ -6904,6 +6944,8 @@ tool_tags:
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/mykrobe_predict/mykrobe_predict":
   - Annotation
+  "toolshed.g2.bx.psu.edu/repos/iuc/myloasm/myloasm":
+  - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/mzmine_batch/mzmine_batch":
   - Metabolomics
   "toolshed.g2.bx.psu.edu/repos/iuc/name2taxid/name2taxid":
@@ -7378,6 +7420,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/pretext_snapshot/pretext_snapshot":
   - "Graph/Display Data"
   - Assembly
+  "toolshed.g2.bx.psu.edu/repos/iuc/pretext_to_asm/pretext_to_asm":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/prinseq/prinseq":
   - "FASTA/FASTQ"
   - "FASTQ Quality Control"
@@ -7428,6 +7472,20 @@ tool_tags:
   - "Get Data"
   "toolshed.g2.bx.psu.edu/repos/iuc/qfilt/qfilt":
   - "FASTA/FASTQ"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_align_regional_kmers/qiime2_sidle_align_regional_kmers":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_prepare_extracted_region/qiime2_sidle_prepare_extracted_region":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_reconstruct_counts/qiime2_sidle_reconstruct_counts":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_reconstruct_database/qiime2_sidle_reconstruct_database":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_reconstruct_fragment_rep_seqs/qiime2_sidle_reconstruct_fragment_rep_seqs":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_reconstruct_taxonomy/qiime2_sidle_reconstruct_taxonomy":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/qiime2_sidle_trim_dada2_posthoc/qiime2_sidle_trim_dada2_posthoc":
+  - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/qiime_align_seqs/qiime_align_seqs":
   - Qiime
   "toolshed.g2.bx.psu.edu/repos/iuc/qiime_alpha_diversity/qiime_alpha_diversity":
@@ -7668,6 +7726,14 @@ tool_tags:
   - Phylogenetics
   "toolshed.g2.bx.psu.edu/repos/iuc/sarscov2summary/sarscov2summary":
   - Phylogenetics
+  "toolshed.g2.bx.psu.edu/repos/iuc/savont_asv/savont_asv":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/savont_classify/savont_classify":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/savont_export/savont_export":
+  - "Metagenomic Analysis"
+  "toolshed.g2.bx.psu.edu/repos/iuc/savont_sintax/savont_sintax":
+  - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/iuc/sbml2sbol/sbml2sbol":
   - "Other Tools"
   "toolshed.g2.bx.psu.edu/repos/iuc/scanpy_cluster_reduce_dimension/scanpy_cluster_reduce_dimension":
@@ -8055,6 +8121,8 @@ tool_tags:
   - Single-cell
   "toolshed.g2.bx.psu.edu/repos/iuc/spacexr_rctd/spacexr_rctd":
   - Single-cell
+  "toolshed.g2.bx.psu.edu/repos/iuc/spacy_nlp/spacy_nlp":
+  - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/iuc/spades_biosyntheticspades/spades_biosyntheticspades":
   - Assembly
   "toolshed.g2.bx.psu.edu/repos/iuc/spades_coronaspades/spades_coronaspades":
@@ -8370,6 +8438,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_axtchain/ucsc_axtchain":
   - "Convert Formats"
   - Mapping
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_axtsort/ucsc_axtsort":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_axttomaf/ucsc_axtomaf":
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_bedtobigbed/ucsc_bedtobigbed":
@@ -8379,6 +8449,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainantirepeat/ucsc_chainantirepeat":
   - "Convert Formats"
   - Mapping
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainmergesort/ucsc_chainmergesort":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainnet/ucsc_chainnet":
   - "Convert Formats"
   - Mapping
@@ -8388,6 +8460,8 @@ tool_tags:
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainsort/ucsc_chainsort":
   - "Multiple Alignments"
   - Mapping
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainstitchid/ucsc_chainstitchid":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_chainswap/ucsc_chainswap":
   - "Multiple Alignments"
   - Mapping
@@ -8404,6 +8478,8 @@ tool_tags:
   - "Convert Formats"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_hubcheck/ucsc_hubcheck":
   - "Graph/Display Data"
+  "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_lavtopsl/ucsc_lavtopsl":
+  - Annotation
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_mafaddirows/ucsc_mafaddirows":
   - "Multiple Alignments"
   "toolshed.g2.bx.psu.edu/repos/iuc/ucsc_mafcoverage/ucsc_mafcoverage":
@@ -8864,6 +8940,14 @@ tool_tags:
   - "Text Manipulation"
   "toolshed.g2.bx.psu.edu/repos/naegle_lab/kstar_calculate/kstar_calculate":
   - Proteomics
+  "toolshed.g2.bx.psu.edu/repos/nekrut/focaloop_expressionloop/focaloop_expressionloop":
+  - Loops
+  "toolshed.g2.bx.psu.edu/repos/nekrut/focaloop_geneloop/focaloop_geneloop":
+  - Loops
+  "toolshed.g2.bx.psu.edu/repos/nekrut/focaloop_query/focaloop_query":
+  - Loops
+  "toolshed.g2.bx.psu.edu/repos/nekrut/focaloop_variationloop/focaloop_variationloop":
+  - Loops
   "toolshed.g2.bx.psu.edu/repos/nick/allele_counts/allele_counts_1":
   - "VCF/BCF"
   - "Variant Calling"
@@ -9804,6 +9888,8 @@ tool_tags:
   - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/tgac/miranda/miranda":
   - Annotation
+  "toolshed.g2.bx.psu.edu/repos/thanhlv/kmerfinder/kmerfinder":
+  - "Metagenomic Analysis"
   "toolshed.g2.bx.psu.edu/repos/tyty/structurefold/get_read_pipeline":
   - "RNA Analysis"
   - RNA-Seq
